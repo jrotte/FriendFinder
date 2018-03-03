@@ -1,0 +1,32 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "Week 13 HW",
+  "main": "server.js",
+  "scripts": {
+    "test": "none",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrotte/FriendFinder.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "adm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrotte/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/jrotte/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "path": "^0.12.7"
+  },
+  "engines": {
+    "node": "7.4.0"
+  },
+  "devDependencies": {}
+}
